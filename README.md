@@ -2,6 +2,17 @@
 
 Está ferramenta pode ser utilizada para alterar o registro do sistema para trocar a edição do Windows 10/11 Pro para o Home/Home Single Language  
 
+-----Baixando ISO Windows 10/11-----  
+  
+Para baixar a ISO utilizamos o Microsoft Edge como navegador, mas as opções em outros navegadores são similares  
+  
+1_Acessar o link: https://support.microsoft.com/pt-br/windows/criar-um-arquivo-iso-para-o-windows-10-38547366-1dcb-7afd-1726-9eb222d72705  
+2_Apertar a tecla F12 do teclado para abrir o "Dev Tools"  
+3_Na janela que se abrir clicar no "Abrir Dev Tools"  
+  
+![alt text](prints/print1)  
+  
+4_
 -----Instruções usando arquivo .bat-----  
   
 1_Baixar a ISO do Windows 10 seguindo as instruções do link: https://support.microsoft.com/pt-br/windows/criar-um-arquivo-iso-para-o-windows-10-38547366-1dcb-7afd-1726-9eb222d72705  
