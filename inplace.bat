@@ -1,7 +1,7 @@
 @echo off
 openfiles>nul 2>&1 
 if %errorlevel% EQU 0 goto terms
-mshta.exe vbscript:Execute("msgbox ""Voce nao executou como Administrador, essa ferramenta nao e efetiva sem isso. Clique com o botao direito do mouse sobre o .BAT e selecione Executar como Administrador."",0,""INPLACE"":close")
+mshta.exe vbscript:Execute("msgbox ""Execute esta ferramenta como administrador. Clique com o botao direito e selecione a opcao 'Executar como administrador'"",0,""INPLACE"":close")
 exit
 :terms
 echo. 
