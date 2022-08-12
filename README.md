@@ -1,14 +1,14 @@
 # inplace
 
-Está ferramenta pode ser utilizada para alterar o registro do sistema para trocar a edição do Windows 10/11 Pro para o Home/Home Single Language  
+Está ferramenta pode ser utilizada para alterar o registro do sistema para trocar a edição do Windows 10 Pro para o Home/Home Single Language  
 
------Baixando ISO Windows 10/11 através do navegador-----  
+-----Baixando ISO Windows 10 através do navegador-----  
   
 Para baixar a ISO utilizamos o Microsoft Edge como navegador, mas as opções em outros navegadores são similares  
   
 1_Acessar o link: https://www.microsoft.com/pt-br/software-download/windows10  
-2_Apertar a tecla F12 do teclado para abrir o "Dev Tools"  
-3_Na janela que abrir clicar no "Abrir Dev Tools"  
+2_Apertar a tecla F12 do teclado para abrir o "DevTools"  
+3_Na janela que abrir clicar no "Abrir DevTools"  
   
 ![Como abrir Dev Tools](prints/print1.png)  
   
