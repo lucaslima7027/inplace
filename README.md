@@ -8,7 +8,7 @@ Para baixar a ISO utilizamos o Microsoft Edge como navegador, mas as opções em
   
 1_Acessar o link: https://www.microsoft.com/pt-br/software-download/windows10  
 2_Apertar a tecla F12 do teclado para abrir o "Dev Tools"  
-3_Na janela que se abrir clicar no "Abrir Dev Tools"  
+3_Na janela que abrir clicar no "Abrir Dev Tools"  
   
 ![Como abrir Dev Tools](prints/print1.png)  
   
@@ -25,15 +25,20 @@ Para baixar a ISO utilizamos o Microsoft Edge como navegador, mas as opções em
   
 ![Selecionando a edição](prints/print4.png) 
   
-8_Selecionar o idioma e clicar em "Confirmar"  
+8_Selecionar o idioma e clicar em "Confirmar" 
+  
 ![Selecionando o idioma](prints/print5.png) 
   
 9_Escolher a arquitetura x64 ou x32 e clicar em cima para iniciar o download  
+  
 ![Selecionando a arquitetura](prints/print6.png)  
+  
+  
   
 -----Baixando a ISO do Windows 10 através do Media Creation Tool-----  
   
 1_Baixar a ISO do Windows 10 seguindo as instruções do link: https://support.microsoft.com/pt-br/windows/criar-um-arquivo-iso-para-o-windows-10-38547366-1dcb-7afd-1726-9eb222d72705  
+  
   
   
 -----Instruções após baixar a ISO -usando arquivo .bat-----  
@@ -45,7 +50,9 @@ Para baixar a ISO utilizamos o Microsoft Edge como navegador, mas as opções em
 5_Desabilite a opção "Quero ajudar a tornar a Instalação do Windows ainda melhor"  
 6_Após isso irá mostrar na tela a versão correta do Windows a ser instalado  
 7_Confirme a opção "Alterar o que deve ser mantido"  
-8_Clique em instalar  
+8_Clique em "Instalar"  
+  
+  
   
 -----Instruções após baixar a ISO - sem usar o arquivo .bat-----  
   
