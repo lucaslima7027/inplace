@@ -9,16 +9,20 @@ Para baixar a ISO utilizamos o Microsoft Edge como navegador, mas as opções em
 1_Acessar o link: https://www.microsoft.com/pt-br/software-download/windows10  
 2_Apertar a tecla F12 do teclado para abrir o "Dev Tools"  
 3_Na janela que se abrir clicar no "Abrir Dev Tools"  
+  
 ![Como abrir Dev Tools](prints/print1.png)  
   
 4_Procurar o botão de emulação de dispositivo  
+  
 ![Botão emulação de dispositivo](prints/print2.png) 
   
-5_Selecionar o menu dimensões respondendo e selecionar um dispositivo macOS  
+5_Selecionar o menu "Dimensões: respondendo" e selecionar um dispositivo macOS  
+  
 ![Emulando dispositivo macOS](prints/print3.png) 
   
 6_Apertar a tecla F5 do dispositivo e aguardar a tela recarregar  
 7_Após o carregamento clicar em "selecionar uma edição" e escolher "windows 10 (mult-edition ISO)" e clicar em "Confirmar"  
+  
 ![Selecionando a edição](prints/print4.png) 
   
 8_Selecionar o idioma e clicar em "Confirmar"  
@@ -27,7 +31,8 @@ Para baixar a ISO utilizamos o Microsoft Edge como navegador, mas as opções em
 9_Escolher a arquitetura x64 ou x32 e clicar em cima para iniciar o download  
 ![Selecionando a arquitetura](prints/print6.png)  
   
------Baixando a ISO do Windows 10 através do Media Creation Tool-----
+-----Baixando a ISO do Windows 10 através do Media Creation Tool-----  
+  
 1_Baixar a ISO do Windows 10 seguindo as instruções do link: https://support.microsoft.com/pt-br/windows/criar-um-arquivo-iso-para-o-windows-10-38547366-1dcb-7afd-1726-9eb222d72705  
   
   
