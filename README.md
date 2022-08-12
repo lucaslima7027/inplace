@@ -16,7 +16,7 @@ Para baixar a ISO utilizamos o Microsoft Edge como navegador, mas as opções em
   
 ![Botão emulação de dispositivo](prints/print2.png) 
   
-5_Selecionar o menu "Dimensões: respondendo" e selecionar um dispositivo macOS  
+5_Selecionar o menu "Dimensões: respondendo" e selecionar um dispositivo macOS ou IOS  
   
 ![Emulando dispositivo macOS](prints/print3.png) 
   
